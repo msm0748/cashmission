@@ -59,7 +59,7 @@ window.onkeydown = (e) => {
     setTimeout(() => {textarea.style.fontSize = '32px'; textarea.focus();}, 200);
 };
 
-// 악플 75%
+/* 악플 75% */
 
 
 function simulateClick(x,y) {
